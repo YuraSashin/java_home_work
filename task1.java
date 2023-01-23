@@ -51,7 +51,7 @@ public class task1{
     int k = 0;
     while (min1<i) {
         if(min1%n !=0){
-            m2[k] = min;
+            m2[k] = min1;
             k++;
         }
         min1++;
